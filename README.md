@@ -1,4 +1,4 @@
-# 点名器
+# 项目介绍
 
 英语老师让我写一个随机点名的软件，于是乎...
 
@@ -18,7 +18,7 @@
 
 ```bash
 # 下载项目
-git clone git@github.com:Himself65/pointer.git 
+git clone git@github.com:Himself65/pointer.git
 ```
 
 或者下载压缩包也可以
