@@ -1,5 +1,7 @@
 # 项目介绍
 
+> 新项目已迁移至[naming-react](https://github.com/Himself65/naming-react)，该项目不再更新
+
 英语老师让我写一个随机点名的软件，于是乎...
 
 ## 本项目优点
